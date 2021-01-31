@@ -33,11 +33,11 @@
 			ResultSet rs;
 			
 
-			String url = "jdbc:mysql://localhost:3306/";
+			String url = "*********";
 			String db = "adminstration?useSSL=FALSE";
 			String driver = "com.mysql.cj.jdbc.Driver";
 			Class.forName(driver);
-			con = DriverManager.getConnection(url + db, "root", "Vancouver13");   
+			con = DriverManager.getConnection(url + db, "*****", "******");   
           
 			pst = con.prepareStatement("UPDATE adminstration_details set admin_login = ?,admin_password = ? WHERE id = ?");
 			
@@ -102,11 +102,11 @@
 				PreparedStatement pst;
 				ResultSet rs;
 				
-					String url = "jdbc:mysql://localhost:3306/";
+					String url = "***********";
 					String db = "adminstration?useSSL=FALSE";
 					String driver = "com.mysql.cj.jdbc.Driver";
 					Class.forName(driver);
-					con = DriverManager.getConnection(url + db, "root", "Vancouver13");   
+					con = DriverManager.getConnection(url + db, "******", "********");   
 				
 				String id = request.getParameter("id");
 				String login = request.getParameter("admin_login");
