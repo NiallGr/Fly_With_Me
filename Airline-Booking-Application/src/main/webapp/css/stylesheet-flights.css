@@ -1,0 +1,112 @@
+@charset "ISO-8859-1";
+.container {
+    /* remember to set a width */
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}
+
+.navbar {
+    background-color: #f2f2f2;
+}
+
+
+.Airline-Navbar-text {
+        padding-top: 13px;
+        border-left: #006272;
+
+}
+.row {
+    margin-right: auto;
+    margin-left: auto;
+}
+#form {
+    background-color:#006272;
+    height: 80%;
+    width: 100%;
+    margin-left: 18%;
+    padding:20px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
+    0 2px 2px rgba(0,0,0,0.11), 
+    0 4px 4px rgba(0,0,0,0.11), 
+    0 8px 8px rgba(0,0,0,0.11), 
+    0 16px 16px rgba(0,0,0,0.11), 
+    0 32px 32px rgba(0,0,0,0.11);
+    border-radius: 25px; 
+    z-index: 1;
+
+}
+
+#form h3 {
+    border-bottom: 2px solid #3399ff;
+    width:222px;
+    margin-left: 2%;
+}
+
+@media only screen and (max-width: 1300px) {
+    /* For mobile phones: */
+    .btn {
+        margin-top: 3%;
+        margin-left: 3%;
+    }
+    #input #input-group  {
+        width: 90%;
+    }
+}
+.Carousel_Images {
+    height: 500px;
+    
+
+}
+@media only screen and (min-width: 1700px) {
+    .from {
+        margin-left: 36%;
+    }
+    #containerB {
+        margin-left: 10%;
+    }
+}
+
+#outerContainer{
+    position: relative;
+    z-index: 1;
+  }
+  #containerA{ 
+      height: 100px;
+
+      margin: auto;
+  }
+  #containerB{
+    position: absolute;
+    top: 100px;
+    z-index: 2;
+  }
+  #containerC {
+    position: absolute;
+    top: 1050px;
+    width: 100%;
+  }
+  #containerD {
+   background-color: #006272;
+   margin-top: 40px;
+    height: 100px;
+   width: 100%;
+  }
+
+.Top_Break {
+    height: 20px;
+     width: 100%; 
+     background-color: #006272;
+}
+
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+    width: 100%;
+}
+.table td, .table th {
+	color:white;
+}
+.flightHeadings {
+	color: white;
+}
