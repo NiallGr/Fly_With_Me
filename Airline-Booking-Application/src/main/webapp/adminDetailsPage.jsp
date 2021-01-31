@@ -143,7 +143,7 @@
       							String db = "adminstration?useSSL=FALSE";
       							String driver = "com.mysql.cj.jdbc.Driver";
       							Class.forName(driver);
-      							con = DriverManager.getConnection(url + db, "********", "********");  
+      							con = DriverManager.getConnection(url + db, "******##", "********");  
       							
       							String query = "select * from adminstration_details";
       							Statement st = con.createStatement();
