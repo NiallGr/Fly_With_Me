@@ -48,7 +48,7 @@
 				ResultSet rs;
 				
 
-				String url = "********";
+				String url = "*********";
 				String db = "flight_data?useSSL=FALSE";
 				String driver = "com.mysql.cj.jdbc.Driver";
 				Class.forName(driver);
