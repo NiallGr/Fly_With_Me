@@ -52,7 +52,7 @@
 				String db = "flight_data?useSSL=FALSE";
 				String driver = "com.mysql.cj.jdbc.Driver";
 				Class.forName(driver);
-				con = DriverManager.getConnection(url + db, "********", "********");
+				con = DriverManager.getConnection(url + db, "******", "********");
 				
 				String id = request.getParameter("id");
 				String DepartureAirport = request.getParameter("Departure_Airport");  

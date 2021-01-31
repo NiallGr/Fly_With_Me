@@ -40,7 +40,7 @@
 			String db = "flight_data?useSSL=FALSE";
 			String driver = "com.mysql.cj.jdbc.Driver";
 			Class.forName(driver);
-			con = DriverManager.getConnection(url + db, "********", "********");  
+			con = DriverManager.getConnection(url + db, "******", "********");  
           
 			pst = con.prepareStatement("UPDATE flights set Departure_Airport = ?,Country = ?,Departure_Date = ?,Destination_airport = ?,Destination_Country = ?,Return_Date = ?,Price = ? WHERE id = ?");
 			
