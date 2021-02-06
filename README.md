@@ -14,7 +14,7 @@ Flight booking application with user and administration functionality. Built usi
 # Video Tour:   https://www.youtube.com/watch?v=ROgk7AnqcxI
 
 
-## Prebuild  
+# Prebuild  
 Created a workflow using the Scrum methodology: This workflow was spread out of 3 sprints, with a duration of 2 weeks in each sprint. (6 weeks total dev cycle)
 This is captured in "img: 1.1"
 
