@@ -47,6 +47,7 @@ This is captured in "img: 1.1"
 
 
 IMG 1.2 Click on images to see more clearly. 
+
 ![Fly-With-Me_Workflow](https://user-images.githubusercontent.com/62908390/107108324-e7de1980-67eb-11eb-8a56-e819c559427e.jpg)
 
 ### Sprint 2 (Week 3-4)
@@ -86,7 +87,9 @@ IMG 1.2 Click on images to see more clearly.
 
 
 IMG 1.3 Click on images to see more clearly. 
-![Changes_To_Database](https://user-images.githubusercontent.com/62908390/107108312-d72da380-67eb-11eb-99a3-e09c825d9118.JPG)
+
+![MySQL_Fly-With-Me_Structure](https://user-images.githubusercontent.com/62908390/107108372-355a8680-67ec-11eb-93e4-299e93a3bce7.JPG)
+
 
 ### Sprint 3 (Week 5-6)
 - User Test
@@ -104,6 +107,9 @@ Items that need to be changed: See IMG 1.4 (exact lines and files to change)
 -	Database Password :
 2.	To eliminate this repetitive code, I would/will use servlet in the future to have standard database connection Java files so the connections only needed to be changed once.
 
+IMG 1.4 Click on images to see more clearly. 
+
+![Changes_To_Database](https://user-images.githubusercontent.com/62908390/107108312-d72da380-67eb-11eb-99a3-e09c825d9118.JPG)
 
 
-![MySQL_Fly-With-Me_Structure](https://user-images.githubusercontent.com/62908390/107108372-355a8680-67ec-11eb-93e4-299e93a3bce7.JPG)
+
