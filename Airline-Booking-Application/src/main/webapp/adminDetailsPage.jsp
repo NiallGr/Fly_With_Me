@@ -93,7 +93,7 @@
         <p class="AdminDetail_sideBar"><a class="AdminDetail_sideBar_text" href="adminDetailsPage.jsp">Administration <img src="https://img.icons8.com/fluent-systems-regular/24/000000/password-window.png"/></a></p>
     </div>
     <div class="col-sm-10 text-left"> 
-      <h1>Customer Details</h1>
+      <h1>Adminstration Details</h1>
       <div class="row">
       		<div class="col-sm-3">
 	      		<form class="card" method="POST" action="#">
