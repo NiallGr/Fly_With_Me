@@ -20,8 +20,10 @@ This is captured in "img: 1.1"
 
 "img: 1.1" Click on images to see more clearly. 
 ]![FlyWithMe_Scrum](https://user-images.githubusercontent.com/62908390/107108318-e14fa200-67eb-11eb-8502-4f73af6a2034.JPG)
+
+
 ## Build
-### Sprint 1 (week 1 - 2) Front End
+### Sprint 1 (week 1 - 2) Front-End Focus
  - Created a visual diagram with the files, class’s & method's that I intended to use in the project. (Check Img 1.2)
  
  - 	USER Create front-end JSP files:
@@ -50,7 +52,8 @@ IMG 1.2 Click on images to see more clearly.
 
 ![Fly-With-Me_Workflow](https://user-images.githubusercontent.com/62908390/107108324-e7de1980-67eb-11eb-8a56-e819c559427e.jpg)
 
-### Sprint 2 (Week 3-4)
+### Sprint 2 (Week 3-4) Back-end Focus
+
 -	Create MySQL Database (IMG 1.3) Files to create Database in MySQL are above in repository (Database_Fly-With-Me)
     -	Flight_data
       -	adminstration_details
@@ -91,7 +94,8 @@ IMG 1.3 Click on images to see more clearly.
 ![MySQL_Fly-With-Me_Structure](https://user-images.githubusercontent.com/62908390/107108372-355a8680-67ec-11eb-93e4-299e93a3bce7.JPG)
 
 
-### Sprint 3 (Week 5-6)
+### Sprint 3 (Week 5-6) Testing With Users
+
 - User Test
 - Fixes Bugs
 
