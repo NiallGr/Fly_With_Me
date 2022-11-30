@@ -5,6 +5,7 @@ Flight booking application with user and administration functionality. Built usi
 -	Maven
 -	Java 1.8
 -	JSP
+-	MySQL
 -	JavaScript
 -	CSS & Bootstrap
 -	MySQL
